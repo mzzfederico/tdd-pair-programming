@@ -1,0 +1,11 @@
+1. Radice quadrata (se non e' intera, fa throw)
+2. Fattoriale
+3. Potenza es. function(numero, esponente)
+4. FizzBuzz (array da 15, es. 1, 2, Fizz, 4, Buzz...)
+5. Numeri romani es. XVI XIV XI, IX, IV, XVIII
+6. Trovare numero piu' lungo in un array di numeri (con piu' cifre)
+7. Verificare se una parola e' un'anagramma di un'altra (solo solo sillabe che finiscono con vocale)
+    es. rema => re ma => mare
+8. Data una data (YYYY-MM-DD HH-MM) aggiungere ore es. +15 ore, +35 ore, ecc. controllando che cambi anche la data
+
+https://jestjs.io/docs/using-matchers
